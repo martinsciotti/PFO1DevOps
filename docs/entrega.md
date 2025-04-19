@@ -19,3 +19,8 @@
 - El merge de feature/perfil-nuevo-backend no generó un conflicto inicialmente porque los cambios no eran conflictivos, posiblemente debido a un merge fast-forward. Lo corregí modificando main y feature/perfil-nuevo-backend para crear un nuevo cambio conflictivo.
 - Crear pull requests en GitHub fue un proceso nuevo, pero ayudó a entender cómo se documentan y revisan los cambios en un equipo.
 
+
+
+Aquí adjunto una imagen del error del merge el cual era uno de los objetivos principales y que me había costado llegar en un principo.
+
+![ERROR MERGE](https://github.com/user-attachments/assets/22601372-e9cc-44c5-94a6-2b1d24462f6d)
